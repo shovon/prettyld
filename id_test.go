@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/getfederated/prettyld"
+	"github.com/shovon/prettyld"
 )
 
 func TestParseSingleNdoe(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/getfederated/prettyld
+module github.com/shovon/prettyld
 
 go 1.21.1
 

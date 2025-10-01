@@ -3,7 +3,7 @@ package prettyld_test
 import (
 	"testing"
 
-	"github.com/getfederated/prettyld"
+	"github.com/shovon/prettyld"
 )
 
 func TestUnmarshalString(t *testing.T) {
